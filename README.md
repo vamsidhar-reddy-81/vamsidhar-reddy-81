@@ -49,6 +49,8 @@
 <img src="assets/toolkit.svg" width="100%" alt="Tech stack: Python, Java, JavaScript, TypeScript, HTML, CSS, Claude API, Git, GitHub, GitHub Pages, VS Code, SheetJS, Arduino, RFID.">
 
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — Every day, one commit.">
+<img src="assets/commit-log.svg" width="100%" alt="GitHub activity heatmap with total contributions, active days, longest streak and busiest day, refreshed daily.">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsidhar-reddy-81/vamsidhar-reddy-81/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsidhar-reddy-81/vamsidhar-reddy-81/output/github-contribution-grid-snake.svg">
