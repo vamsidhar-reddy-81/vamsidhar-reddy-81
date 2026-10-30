@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="03 SELECTED WORK — Built to learn, built to ship.">
+<defs>
+<linearGradient id="t3bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#070A14"/></linearGradient>
+<radialGradient id="t3gl" cx="85%" cy="25%" r="60%"><stop offset="0" stop-color="#818CF8" stop-opacity=".35"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient>
+<pattern id="t3gr" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#5EEAD4" stroke-opacity=".06"/></pattern>
+<clipPath id="t3cl"><rect width="1200" height="120" rx="18"/></clipPath>
+</defs>
+<style>.s{font-family:Georgia,"Iowan Old Style","Palatino Linotype",serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.n{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.a{animation:up 1s ease both}.d2{animation-delay:.25s}.d3{animation-delay:.5s}
+@media(prefers-reduced-motion:reduce){.a{animation:none}}</style>
+<g clip-path="url(#t3cl)"><rect width="1200" height="120" fill="url(#t3bg)"/><rect width="1200" height="120" fill="url(#t3gl)"/><rect width="1200" height="120" fill="url(#t3gr)"/>
+<text x="40" y="34" class="m" font-size="12" fill="#5EEAD4" letter-spacing="3">03 SELECTED WORK</text><text x="1160" y="34" class="m" font-size="11" fill="#94A3B8" text-anchor="end" letter-spacing="2">PROJECTS</text><text x="40" y="92" class="s a" font-size="46" fill="#EEF2FF">Built to learn, <tspan font-style="italic" fill="#5EEAD4">built to ship.</tspan></text><line x1="40" y1="108" x2="1160" y2="108" stroke="#3B4A7A"/><line x1="40" y1="108" x2="420" y2="108" stroke="#5EEAD4"/></g>
+<rect x=".5" y=".5" width="1199" height="119" rx="18" fill="none" stroke="#3B4A7A" stroke-opacity=".7"/></svg>
