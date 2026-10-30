@@ -1,15 +1,15 @@
 <a href="https://vamsidhar-reddy-81.github.io/My-Portfolio/">
-  <img src="assets/hero.svg" width="100%" alt="Morreddy Vamsidhaar Reddy — AI & ML student and Python developer. Building things that work, one commit at a time.">
+  <img src="assets/hero.svg" width="100%" alt="Morreddy Vamsidhar Reddy — AI & ML student and Python developer. Building things that work, one commit at a time.">
 </a>
 
 <p align="center">
   <a href="https://vamsidhar-reddy-81.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-vamsidhar--reddy--81.github.io-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://www.linkedin.com/in/morreddy-gari-vamsidharreddy-4b0640378"><img src="https://img.shields.io/badge/LinkedIn-Vamsidhaar_Reddy-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://www.linkedin.com/in/morreddy-gari-vamsidharreddy-4b0640378"><img src="https://img.shields.io/badge/LinkedIn-Vamsidhar_Reddy-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=linkedin" alt="LinkedIn profile"></a>
   <a href="https://www.hackerrank.com/profile/m_vamsidhar20061"><img src="https://img.shields.io/badge/HackerRank-m__vamsidhar20061-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=hackerrank" alt="HackerRank profile"></a>
   <a href="mailto:m.vamsidhar20061@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=gmail" alt="Email"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Vamsidhaar.">
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Vamsidhar.">
 <img src="assets/about.svg" width="100%" alt="B.Tech AI and ML student at Tirumala Engineering College, CGPA 7.55. Python Intern at KODBUD in 2026. Built HabitGrid, Live Weather App, a portfolio website, LegacyMind-AI and Coach-AI.">
 
 <img src="assets/title-milestones.svg" width="100%" alt="02 Milestones — Learning, on the record.">
@@ -67,7 +67,7 @@
 <img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth shipping.">
 <p align="center">
   <a href="mailto:m.vamsidhar20061@gmail.com"><img src="https://img.shields.io/badge/Email-m.vamsidhar20061@gmail.com-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/morreddy-gari-vamsidharreddy-4b0640378"><img src="https://img.shields.io/badge/LinkedIn-Vamsidhaar_Reddy-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/morreddy-gari-vamsidharreddy-4b0640378"><img src="https://img.shields.io/badge/LinkedIn-Vamsidhar_Reddy-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://vamsidhar-reddy-81.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-4F46E5?style=for-the-badge&labelColor=0B1020&logoColor=EEF2FF&logo=githubpages" alt="Portfolio"></a>
 </p>
 
